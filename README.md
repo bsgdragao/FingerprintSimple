@@ -21,6 +21,8 @@ https://gitlab.freedesktop.org/libfprint/libfprint.git
 
 Go to libfprint/tests and copy capture.py. Past this file at the root of the Java project.
 
+Execute the as Java aplication the class main at /FingerprintSimple/src/main/java/br/com/bitfrost/fingerprintsimple/main.java
+
 And Be Happy!!
 
                        
