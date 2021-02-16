@@ -19,7 +19,7 @@ Download libfprint from...
 
 https://gitlab.freedesktop.org/libfprint/libfprint.git
 
-Go to libfprint/tests and copy capture.py. Past this file at the root of the project  project.
+Go to libfprint/tests and copy capture.py. Past this file at the root of the Java project.
 
 And Be Happy!!
 
