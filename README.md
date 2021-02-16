@@ -23,6 +23,8 @@ Go to libfprint/tests and copy capture.py. Past this file at the root of the Jav
 
 Execute as Java aplication the class main at /FingerprintSimple/src/main/java/br/com/bitfrost/fingerprintsimple/main.java
 
+Edit according your need, use as capture, check or implement the search(Need implementation SourcesAFI method). 
+
 And Be Happy!!
 
                        
