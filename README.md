@@ -27,4 +27,7 @@ Edit according your need, use as capture, check or implement the search(Need imp
 
 And Be Happy!!
 
+PS: For Raspberry Pi install the Packages Manualy.
+
+   If you need help send me a email: bsgdragao@gmail.com
                        
